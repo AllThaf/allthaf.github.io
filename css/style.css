@@ -72,7 +72,7 @@ nav ul li a:hover {
   display: block;
   width: 21px;
   height: 2px;
-  background-color: whitesmoke;
+  background-color: black;
   border-radius: 3px;
   transition: all 0.7s;
 }
@@ -205,7 +205,7 @@ p {
     height: 100vh;
     justify-content: space-evenly;
     align-items: center;
-    background-color: coral;
+    background-color: gray;
     /* transform: translateX(100%);  */
     transition: all 0.72s;
     opacity: 0;
@@ -213,7 +213,7 @@ p {
   }
 
   nav ul.menushow {
-    opacity: 0.5;
+    opacity: 0.8;
     /* transform: translateX(0); */
   }
 }
@@ -308,4 +308,38 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
+}
+
+.video-container {
+  position: relative;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.video-container iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.map-container {
+  position: relative;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.map-container iframe {
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .video-container iframe {
+    width: 600px;
+    height: 315px;
+  }
+
+  .map-container iframe {
+    width: 600px;
+    height: 315px;
+  }
 }
