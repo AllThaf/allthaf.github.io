@@ -116,7 +116,7 @@ nav ul li a:hover {
   border: 2px solid #708090;
   padding: 8px;
   border-radius: 5px;
-  margin: 30px auto 10px;
+  margin: 50px auto 10px;
 }
 
 main {
@@ -147,7 +147,6 @@ main {
   display: flex;
   flex-direction: column;
   background-color: #D2B48C;
-  border: 2px solid #708090;
   padding: 8px;
   position: relative;
   margin: 0 auto;
@@ -167,6 +166,10 @@ h2 {
   word-wrap: break-word;
   margin-bottom: 10px;
 
+}
+
+h4 a {
+  color: white
 }
 
 h5 {
@@ -341,5 +344,42 @@ div.desc {
   .map-container iframe {
     width: 600px;
     height: 315px;
+  }
+}
+
+table {
+  width: 100%;
+  border: none;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border: none;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
+
+tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+@media screen and (max-width: 576px) {
+
+  table,
+  th,
+  td,
+  tr {
+    width: 100%;
   }
 }
