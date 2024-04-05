@@ -19,6 +19,7 @@ for infoNews in info:
     uploadTime = infoNews.find("div", class_="date").text.split("-")
     uploadTimeClear = uploadTime[1].strip()
     scrapingTime = dt.now().strftime("%d %b %Y %H:%M:%S")
+    linkBerita = infoNews.find("a")["href"]
 
     data.append(
         {
@@ -26,6 +27,7 @@ for infoNews in info:
             "Kategori": category,
             "Publish": uploadTimeClear,
             "Scraping": scrapingTime,
+            "Link": linkBerita,
         }
     )
 

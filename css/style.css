@@ -383,3 +383,14 @@ tr:nth-child(odd) {
     width: 100%;
   }
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: none;
+  cursor: pointer;
+}
