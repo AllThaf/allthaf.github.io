@@ -347,7 +347,7 @@ div.desc {
   }
 }
 
-table {
+/* table {
   width: 100%;
   border: none;
   border-spacing: 0;
@@ -372,9 +372,9 @@ tr:hover {
 
 tr:nth-child(odd) {
   background-color: #f2f2f2;
-}
+} */
 
-@media screen and (max-width: 576px) {
+/* @media screen and (max-width: 576px) {
 
   table,
   th,
@@ -382,7 +382,7 @@ tr:nth-child(odd) {
   tr {
     width: 100%;
   }
-}
+} */
 
 a {
   text-decoration: none;

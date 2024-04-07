@@ -1,19 +1,25 @@
-$(function () {
+$.get("data.json", function (data) {
 
-  $.get('data.json', function (obj) {
-    var str = "<table border =1>";
-    str += "<tr><td>No</td><td>Judul</td><td>Kategori</td><td>Waktu Publish</td><td>Waktu Scraping</td></tr>";
+  let items = data.map((item, idx) => {
+    return {
+      ...item,
+      id: idx + 1,
+      Judul: '<a href="' + item.Link + '" target="_blank">' + item.Judul + '</a>',
+    };
+  });
 
-    $.each(obj, function (n, data) {
-      str += "<tr><td>" + (n + 1) + "</td>";
-      str += "<td><a href='" + data.Link + "' target ='_blank'>" + data.Judul + "</a></td>";
-      str += "<td>" + data.Kategori + "</td>";
-      str += "<td>" + data.Publish + "</td>";
-      str += "<td>" + data.Scraping + "</td></tr>";
-
+  $(document).ready(function () {
+    $('#scrap').DataTable({
+      data: items,
+      columns: [
+        { data: 'id' },
+        { data: 'Judul' },
+        { data: 'Kategori' },
+        { data: 'Publish' },
+        { data: 'Scraping' },
+        { data: 'Link', visible: false }
+      ],
+      responsive: true
     });
-
-    str += "</table>";
-    $("#scrap").html(str);
   });
 });

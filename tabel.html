@@ -6,9 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Scraping - Thafa</title>
   <link rel="stylesheet" href="css/style.css">
-  <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
-  <script src="js/query.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Srisakdi&display=swap" rel="stylesheet">
+  <link href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.0.3/r-3.0.1/datatables.min.css" rel="stylesheet">
+  <script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.0.3/r-3.0.1/datatables.min.js"></script>
+  <script src="js/query.js"></script>
 </head>
 
 <body>
@@ -45,8 +46,17 @@
     <article style="text-align: center; margin:auto">
       <h2 style="margin:10px">Berita Terkini</h2>
       <main>
-        <div id="scrap">
-        </div>
+        <table id="scrap">
+          <thead>
+            <tr>
+              <td>No</td>
+              <td>Judul</td>
+              <td>Kategori</td>
+              <td>Waktu Publish</td>
+              <td>Waktu Scraping</td>
+            </tr>
+          </thead>
+        </table>
       </main>
     </article>
   </div>

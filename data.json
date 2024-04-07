@@ -1,359 +1,352 @@
 [
   {
-    "Judul": "Pengumuman Putusan Penundaan Kewajiban Pembayaran Utang PT Maleo",
-    "Kategori": "Native",
-    "Publish": "13 jam yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://www.republika.co.id/berita/sbesot1/pengumuman-putusan-penundaan-kewajiban-pembayaran-utang-pt-maleo"
-  },
-  {
-    "Judul": "Heru Budi Ancam Tarik Mobil Dinas yang Dipakai untuk Mudik",
-    "Kategori": "News",
-    "Publish": "3 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://news.republika.co.id/berita/sbh1ex349/heru-budi-ancam-tarik-mobil-dinas-yang-dipakai-untuk-mudik"
-  },
-  {
-    "Judul": "HK Buka Tol Bangkinang-XIII Koto Kampar Gratis untuk Lebaran",
+    "Judul": "JAS Airport Services Kantongi Kerja Sama Baru dengan Maskapai Asing",
     "Kategori": "Ekonomi",
-    "Publish": "4 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ekonomi.republika.co.id/berita/sbh1cq457/hk-buka-tol-bangkinangxiii-koto-kampar-gratis-untuk-lebaran"
+    "Publish": "07 April 2024, 11:26",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ekonomi.republika.co.id/berita/sbk1ov490/jas-airport-services-kantongi-kerja-sama-baru-dengan-maskapai-asing"
   },
   {
-    "Judul": "Jalan Lintas Bukittinggi-Padang Putus Akibat Banjir Lahar Dingin Gunung Marapi",
-    "Kategori": "News",
-    "Publish": "4 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://news.republika.co.id/berita/sbh1ch414/jalan-lintas-bukittinggipadang-putus-akibat-banjir-lahar-dingin-gunung-marapi"
-  },
-  {
-    "Judul": "Observatorium Ini Miliki Kamera Digital Terbesar yang Tangkap Gambar Alam Semesta",
-    "Kategori": "Tekno",
-    "Publish": "5 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://tekno.republika.co.id/berita/sbh1by370/observatorium-ini-miliki-kamera-digital-terbesar-yang-tangkap-gambar-alam-semesta"
-  },
-  {
-    "Judul": "Polda Bali Tegaskan Konten Antrean Kendaraan 13 Km di Pelabuhan Gilimanuk Hoaks",
-    "Kategori": "News",
-    "Publish": "5 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://news.republika.co.id/berita/sbh1bj409/polda-bali-tegaskan-konten-antrean-kendaraan-13-km-di-pelabuhan-gilimanuk-hoaks"
-  },
-  {
-    "Judul": "Studi: Otak Semakin Membesar, Risiko Demensia Berkurang",
-    "Kategori": "Retizen",
-    "Publish": "7 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://retizen.republika.co.id/posts/299977/studi-otak-semakin-membesar-risiko-demensia-berkurang"
-  },
-  {
-    "Judul": "Bandara Dhoho Resmi Beroperasi, Citilink Buka Rute Penerbangan",
-    "Kategori": "Ekonomi",
-    "Publish": "8 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ekonomi.republika.co.id/berita/sbh16a457/bandara-dhoho-resmi-beroperasi-citilink-buka-rute-penerbangan"
-  },
-  {
-    "Judul": "Mudik Asyik Bersama BUMN 2024, PNM Fasilitasi Ratusan Karyawan dan Nasabah",
-    "Kategori": "Ramadhan",
-    "Publish": "8 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbh166349/mudik-asyik-bersama-bumn-2024-pnm-fasilitasi-ratusan-karyawan-dan-nasabah"
-  },
-  {
-    "Judul": "Ada Peningkatan Kepadatan Kendaraan, Contraflow Diterapkan dari KM 70 Sampai 55",
-    "Kategori": "Ramadhan",
-    "Publish": "10 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbh13u366/ada-peningkatan-kepadatan-kendaraan-contraflow-diterapkan-dari-km-70-sampai-55"
-  },
-  {
-    "Judul": "Taspen Bahagiakan Peserta Mudik dengan Proteksi Asuransi",
-    "Kategori": "Ramadhan",
-    "Publish": "13 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbh0yo457/taspen-bahagiakan-peserta-mudik-dengan-proteksi-asuransi"
-  },
-  {
-    "Judul": "TNI AL- Bank Artha Graha Berangkatkan Ribuan Peserta Mudik Gratis ke Sejumlah Kota di Jawa",
-    "Kategori": "News",
-    "Publish": "13 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://news.republika.co.id/berita/sbgydf456/tni-al-bank-artha-graha-berangkatkan-ribuan-peserta-mudik-gratis-ke-sejumlah-kota-di-jawa"
-  },
-  {
-    "Judul": "Pemudik Mulai Bergerak Padati Jalur Selatan",
-    "Kategori": "Visual",
-    "Publish": "15 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://visual.republika.co.id/berita/sbh0us491/pemudik-mulai-bergerak-padati-jalur-selatan"
-  },
-  {
-    "Judul": "Cegah Tawuran, ISKI Jakarta Sodorkan Solusi Komunikasi Keluarga",
-    "Kategori": "News",
-    "Publish": "16 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://news.republika.co.id/berita/sbh0sm371/cegah-tawuran-iski-jakarta-sodorkan-solusi-komunikasi-keluarga"
-  },
-  {
-    "Judul": "Ada Pembatasan Angkutan Lebaran, Bulog Pastikan Distribusi Beras Aman",
-    "Kategori": "Ekonomi",
-    "Publish": "16 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ekonomi.republika.co.id/berita/sbh0sh457/ada-pembatasan-angkutan-lebaran-bulog-pastikan-distribusi-beras-aman"
-  },
-  {
-    "Judul": "Pemkab Bantul Kebut Perbaikan Jalan Rusak Jelang Lebaran",
-    "Kategori": "Ramadhan",
-    "Publish": "19 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbh0oh330/pemkab-bantul-kebut-perbaikan-jalan-rusak-jelang-lebaran"
-  },
-  {
-    "Judul": "Cegah Varises dengan Olahraga, Begini Caranya",
-    "Kategori": "Ameera",
-    "Publish": "19 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ameera.republika.co.id/berita/sbh0o8414/cegah-varises-dengan-olahraga-begini-caranya"
-  },
-  {
-    "Judul": "Pegadaian Berangkatkan 5 Bus Mudik Gratis dari Pekanbaru",
-    "Kategori": "Ekonomi",
-    "Publish": "20 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ekonomi.republika.co.id/berita/sbh0mh457/pegadaian-berangkatkan-5-bus-mudik-gratis-dari-pekanbaru"
-  },
-  {
-    "Judul": "MUI Imbau Pemudik Tetap Puasa dan Sholat Lima Waktu",
-    "Kategori": "Ramadhan",
-    "Publish": "21 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbh0jy366/mui-imbau-pemudik-tetap-puasa-dan-sholat-lima-waktu"
-  },
-  {
-    "Judul": "Di Sidang MK, Airlangga Bantah Bansos Pangan Akibatkan Harga Beras Naik",
-    "Kategori": "News",
-    "Publish": "22 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://news.republika.co.id/berita/sbh0jq330/di-sidang-mk-airlangga-bantah-bansos-pangan-akibatkan-harga-beras-naik"
-  },
-  {
-    "Judul": "Selama Libur Lebaran, BRI Imbau Nasabah Manfaatkan Transaksi Perbankan Digital",
-    "Kategori": "Ekonomi",
-    "Publish": "28 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ekonomi.republika.co.id/berita/sbh08i457/selama-libur-lebaran-bri-imbau-nasabah-manfaatkan-transaksi-perbankan-digital"
-  },
-  {
-    "Judul": "Polresta Bandung Berangkatkan 150 Warga untuk Mudik Gratis",
-    "Kategori": "Ramadhan",
-    "Publish": "31 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbgle5451/polresta-bandung-berangkatkan-150-warga-untuk-mudik-gratis"
-  },
-  {
-    "Judul": "Tidak Diberi Utangan Beli Rokok, Pemuda di Kembangan Bakar Warung Kelontong",
-    "Kategori": "News",
-    "Publish": "32 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://news.republika.co.id/berita/sbh01w409/tidak-diberi-utangan-beli-rokok-pemuda-di-kembangan-bakar-warung-kelontong"
-  },
-  {
-    "Judul": "Menteri PUPR: Longsor Tol Bocimi Akibat Curah Hujan Tinggi",
-    "Kategori": "News",
-    "Publish": "35 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://news.republika.co.id/berita/sbgzwy330/menteri-pupr-longsor-tol-bocimi-akibat-curah-hujan-tinggi"
-  },
-  {
-    "Judul": "Belanja Baju Lebaran, Franka Soeria: Kualitas Bahan Baik, Umur Pakai Panjang",
-    "Kategori": "Ameera",
-    "Publish": "39 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ameera.republika.co.id/berita/sbgzqt414/belanja-baju-lebaran-franka-soeria-kualitas-bahan-baik-umur-pakai-panjang"
-  },
-  {
-    "Judul": "Zainudin Amali: Kenaikan Peringkat FIFA Indonesia Bukti Transformasi Berjalan Baik",
-    "Kategori": "Sport",
-    "Publish": "39 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://sport.republika.co.id/berita/sbgx0t456/zainudin-amali-kenaikan-peringkat-fifa-indonesia-bukti-transformasi-berjalan-baik"
-  },
-  {
-    "Judul": "Mudik Asyik Bersama BUMN, BNI Antarkan 4.200 Pemudik Pulang Kampung",
-    "Kategori": "Ramadhan",
-    "Publish": "40 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbgzp6349/mudik-asyik-bersama-bumn-bni-antarkan-4200-pemudik-pulang-kampung"
-  },
-  {
-    "Judul": "Pengemudi di Terminal Pulogebang Dipastikan Kantongi Surat Laik Jalan",
-    "Kategori": "Pemilu Kita",
-    "Publish": "41 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://pemilukita.republika.co.id/berita/sbgzns330/pengemudi-di-terminal-pulogebang-dipastikan-kantongi-surat-laik-jalan"
-  },
-  {
-    "Judul": "Misinformasi Online Menghasilkan Memori Palsu",
-    "Kategori": "Retizen",
-    "Publish": "44 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://retizen.republika.co.id/posts/299964/misinformasi-online-menghasilkan-memori-palsu"
-  },
-  {
-    "Judul": "Alberto Rodriguez Percaya Diri dengan Kualitas Pertahanan Persib Bandung ",
-    "Kategori": "Sport",
-    "Publish": "45 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://sport.republika.co.id/berita/sbgwqq456/alberto-rodriguez-percaya-diri-dengan-kualitas-pertahanan-persib-bandung"
-  },
-  {
-    "Judul": "NASA akan Meluncurkan Tiga Roket Berbunyi Saat Gerhana Matahari Total 8 April",
-    "Kategori": "Network",
-    "Publish": "47 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://antariksa.republika.co.id/news/1714520778/nasa-akan-meluncurkan-tiga-roket-berbunyi-saat-gerhana-matahari-total-8-april"
-  },
-  {
-    "Judul": "Bulog Manfaatkan Fleksibilitas Harga Gabah dan Beras",
-    "Kategori": "Ekonomi",
-    "Publish": "47 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ekonomi.republika.co.id/berita/sbgzd8457/bulog-manfaatkan-fleksibilitas-harga-gabah-dan-beras"
-  },
-  {
-    "Judul": "Putri RK Lepas Jilbab, ICMI: Orang Tua Tetap Wajib Bimbing Hingga Paham Kewajiban Berhijab",
-    "Kategori": "Khazanah",
-    "Publish": "48 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://khazanah.republika.co.id/berita/sbgzbb349/putri-rk-lepas-jilbab-icmi-orang-tua-tetap-wajib-bimbing-hingga-paham-kewajiban-berhijab"
-  },
-  {
-    "Judul": "Masa Berlaku SIM-STNK Habis Saat Libur Lebaran? Tenang, Polisi Jamin tidak Bakal Ditilang",
-    "Kategori": "Ramadhan",
-    "Publish": "50 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbgz8r414/masa-berlaku-simstnk-habis-saat-libur-lebaran-tenang-polisi-jamin-tidak-bakal-ditilang"
-  },
-  {
-    "Judul": "Operasi Ketupat Tingkatkan Kenyamanan Pemudik Menuju Kampung Halaman",
-    "Kategori": "Ramadhan",
-    "Publish": "51 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbgl99451/operasi-ketupat-tingkatkan-kenyamanan-pemudik-menuju-kampung-halaman"
-  },
-  {
-    "Judul": "Truk Pengangkut Material Tol Jogja-Solo Berhenti Beroperasi Mulai Hari Ini",
-    "Kategori": "Ramadhan",
-    "Publish": "51 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbgz6n330/truk-pengangkut-material-tol-jogjasolo-berhenti-beroperasi-mulai-hari-ini"
-  },
-  {
-    "Judul": "BUMN Hotel Berangkatkan Pemudik dengan Tujuan Yogyakarta",
-    "Kategori": "Ramadhan",
-    "Publish": "51 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbgz6l370/bumn-hotel-berangkatkan-pemudik-dengan-tujuan-yogyakarta"
-  },
-  {
-    "Judul": "Telkom Bersama Bank Mandiri dan MIND ID Gelar Pasar Murah untuk Ojol dan Warga",
-    "Kategori": "News",
-    "Publish": "54 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://news.republika.co.id/berita/sbgz1o457/telkom-bersama-bank-mandiri-dan-mind-id-gelar-pasar-murah-untuk-ojol-dan-warga"
-  },
-  {
-    "Judul": "Jamaah Aolia di Gunungkidul Idul Fitri Lebih Awal, Mbah Benu Pesan Jaga Kerukunan",
-    "Kategori": "Rejogja",
-    "Publish": "55 menit yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://rejogja.republika.co.id/berita/sbgz0e432/jamaah-aolia-di-gunungkidul-idul-fitri-lebih-awal-mbah-benu-pesan-jaga-kerukunan"
-  },
-  {
-    "Judul": "Ranking Dunia Universitas Indonesia Versi SCImago Meningkat Signifikan",
-    "Kategori": "News",
-    "Publish": "1 jam yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://news.republika.co.id/berita/sbgypf414/ranking-dunia-universitas-indonesia-versi-scimago-meningkat-signifikan"
-  },
-  {
-    "Judul": "Kendaraan Listrik Dibolehkan Naik Kapal Angkutan Penyeberangan dengan Ketentuan Khusus",
-    "Kategori": "Ramadhan",
-    "Publish": "1 jam yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbgygm370/kendaraan-listrik-dibolehkan-naik-kapal-angkutan-penyeberangan-dengan-ketentuan-khusus"
-  },
-  {
-    "Judul": "Momen Serangan Balasan Iran Semakin Dekat Usai Israel Terima Data-Data Intelijen Terbaru",
-    "Kategori": "News",
-    "Publish": "1 jam yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://news.republika.co.id/berita/sbgygj409/momen-serangan-balasan-iran-semakin-dekat-usai-israel-terima-datadata-intelijen-terbaru"
-  },
-  {
-    "Judul": "Mudik Asyik Baca Buku: Tingkatkan Budaya Literasi Masyarakat",
-    "Kategori": "Network",
-    "Publish": "1 jam yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://kampus.republika.co.id/news/1624520678/mudik-asyik-baca-buku-tingkatkan-budaya-literasi-masyarakat"
-  },
-  {
-    "Judul": "TelkomGroup Berangkatkan Lebih dari 2.000 Pemudik Melalui Program Mudik Gratis",
-    "Kategori": "News",
-    "Publish": "1 jam yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://news.republika.co.id/berita/sbgyeb463/telkomgroup-berangkatkan-lebih-dari-2000-pemudik-melalui-program-mudik-gratis"
-  },
-  {
-    "Judul": "Alquran Cetak Pertama di Indonesia dan Asia Tenggara Dicetak di Kampung 3 Ulu",
-    "Kategori": "Network",
-    "Publish": "1 jam yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://kingdomsriwijaya.id/posts/299048/alquran-cetak-pertama-di-indonesia-dan-asia-tenggara-dicetak-di-kampung-3-ulu"
-  },
-  {
-    "Judul": "BNN Tes Urine ABK Kapal Penumpang Angkutan Lebaran",
-    "Kategori": "Ramadhan",
-    "Publish": "1 jam yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbgl4d451/bnn-tes-urine-abk-kapal-penumpang-angkutan-lebaran"
-  },
-  {
-    "Judul": "Tayang 11 April, Siksa Kubur Penuh Kisah Menyentuh, tak Cuma Andalkan Elemen Horor",
-    "Kategori": "Ameera",
-    "Publish": "1 jam yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ameera.republika.co.id/berita/sbgy1k414/tayang-11-april-siksa-kubur-penuh-kisah-menyentuh-tak-cuma-andalkan-elemen-horor"
-  },
-  {
-    "Judul": "H-5, Pemudik Mulai Berdatangan ke Terminal Cicaheum ",
+    "Judul": "H-3 Lebaran, Jalur Arteri di Bandung Ramai Lancar Dilintasi Pemudik Sepeda Motor",
     "Kategori": "Rejabar",
-    "Publish": "1 jam yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://rejabar.republika.co.id/berita/sbgy20512/h5-pemudik-mulai-berdatangan-ke-terminal-cicaheum"
+    "Publish": "07 April 2024, 11:25",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://rejabar.republika.co.id/berita/sbk1d3436/h3-lebaran-jalur-arteri-di-bandung-ramai-lancar-dilintasi-pemudik-sepeda-motor"
   },
   {
-    "Judul": "Ratusan Paket Sembako Dibagikan kepada Masyarakat Kurang Mampu",
-    "Kategori": "Visual",
-    "Publish": "1 jam yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://visual.republika.co.id/berita/sbgwvd491/ratusan-paket-sembako-dibagikan-kepada-masyarakat-kurang-mampu"
-  },
-  {
-    "Judul": "Mengapa Yahudi Pakai Landasan Agama untuk Gusur Masjid Al Aqsa?",
-    "Kategori": "Islam Digest",
-    "Publish": "1 jam yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://islamdigest.republika.co.id/berita/sbgxzo366/mengapa-yahudi-pakai-landasan-agama-untuk-gusur-masjid-al-aqsa"
-  },
-  {
-    "Judul": "Andi Seto: Jangan Sampai Alquran Terkucil dari Kelompok Masyarakat Tertentu",
+    "Judul": "Menhub Minta KAI Antisipasi Cuaca Buruk",
     "Kategori": "Ramadhan",
-    "Publish": "1 jam yang lalu",
-    "Scraping": "05 Apr 2024 20:31:00",
-    "Link": "https://ramadhan.republika.co.id/berita/sbgwhb318/andi-seto-jangan-sampai-alquran-terkucil-dari-kelompok-masyarakat-tertentu"
+    "Publish": "07 April 2024, 11:18",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ramadhan.republika.co.id/berita/sbk1ap490/menhub-minta-kai-antisipasi-cuaca-buruk"
+  },
+  {
+    "Judul": "TPA Sarimukti Berhenti Beroperasi di Hari Lebaran 1445 Hijriah",
+    "Kategori": "News",
+    "Publish": "07 April 2024, 11:15",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://news.republika.co.id/berita/sbk16h436/tpa-sarimukti-berhenti-beroperasi-di-hari-lebaran-1445-hijriah"
+  },
+  {
+    "Judul": "Libur Lebaran, Pelaku Wisata Diminta Jaga Citra DIY, Jangan Nuthuk Harga",
+    "Kategori": "Rejogja",
+    "Publish": "07 April 2024, 11:10",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://rejogja.republika.co.id/berita/sbk0xf432/libur-lebaran-pelaku-wisata-diminta-jaga-citra-diy-jangan-nuthuk-harga"
+  },
+  {
+    "Judul": "H-3 Lebaran, Terminal Kampung Rambutan Dipadati Penumpang",
+    "Kategori": "Visual",
+    "Publish": "07 April 2024, 10:56",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://visual.republika.co.id/berita/sbk09l375/h3-lebaran-terminal-kampung-rambutan-dipadati-penumpang"
+  },
+  {
+    "Judul": "Dradjad: Benny Serang Ketum PAN Secara Kasar",
+    "Kategori": "News",
+    "Publish": "07 April 2024, 10:50",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://news.republika.co.id/berita/sbk00p318/dradjad-benny-serang-ketum-pan-secara-kasar"
+  },
+  {
+    "Judul": "BMH Ajak 25 Anak Yatim Piatu di Kota Depok Belanja Lebaran",
+    "Kategori": "Ramadhan",
+    "Publish": "07 April 2024, 10:49",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ramadhan.republika.co.id/berita/sbjzy0313/bmh-ajak-25-anak-yatim-piatu-di-kota-depok-belanja-lebaran"
+  },
+  {
+    "Judul": "Kenang 30 Tahun Kematian Ayahnya, Putri Kurt Cobain Dihibur Anak Michael Jackson",
+    "Kategori": "Ameera",
+    "Publish": "07 April 2024, 10:39",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ameera.republika.co.id/berita/sbjzh6414/kenang-30-tahun-kematian-ayahnya-putri-kurt-cobain-dihibur-anak-michael-jackson"
+  },
+  {
+    "Judul": "Jelang Lebaran, Konsumsi BBM Naik 250 Persen di Layanan Pengisian BBM Ruas Tol Jateng",
+    "Kategori": "Rejogja",
+    "Publish": "07 April 2024, 10:38",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://rejogja.republika.co.id/berita/sbjzgc291/jelang-lebaran-konsumsi-bbm-naik-250-persen-di-layanan-pengisian-bbm-ruas-tol-jateng"
+  },
+  {
+    "Judul": "Hanya Matahari yang Gelap! Gerhana Matahari Juga Sajikan Keajaiban Gelombang Bayangan dan Pergeseran Purkinje yang Mengagumkan!",
+    "Kategori": "Network",
+    "Publish": "07 April 2024, 10:30",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://antariksa.republika.co.id/sains/1714525060/hanya-matahari-yang-gelap-gerhana-matahari-juga-sajikan-keajaiban-gelombang-bayangan-dan-pergeseran-purkinje-yang-mengagumkan"
+  },
+  {
+    "Judul": "KPU: Syarat Dukungan Calon Perseorangan Pilgub Sumut Minimal 814.046",
+    "Kategori": "Pemilu Kita",
+    "Publish": "07 April 2024, 10:25",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://pemilukita.republika.co.id/berita/sbjxlj436/kpu-syarat-dukungan-calon-perseorangan-pilgub-sumut-minimal-814046"
+  },
+  {
+    "Judul": "Kuota Jamaah Haji Terpenuhi, Kloter Pertama Berangkat 12 Mei 2024",
+    "Kategori": "Ihram",
+    "Publish": "07 April 2024, 10:24",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ihram.republika.co.id/berita/sbjysy282/kuota-jamaah-haji-terpenuhi-kloter-pertama-berangkat-12-mei-2024"
+  },
+  {
+    "Judul": "Baznas DKI-Bank Artha Graha Internasional Dorong Pemberdayaan Santri Disabilitas ",
+    "Kategori": "News",
+    "Publish": "07 April 2024, 10:20",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://news.republika.co.id/berita/sbjymm456/baznas-dkibank-artha-graha-internasional-dorong-pemberdayaan-santri-disabilitas"
+  },
+  {
+    "Judul": "Tinjau Stasiun Pasar Senen, Menhub Tekankan Keselamatan Jadi Prioritas Saat Arus Mudik",
+    "Kategori": "Ekonomi",
+    "Publish": "07 April 2024, 10:05",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ekonomi.republika.co.id/berita/sbjxxa502/tinjau-stasiun-pasar-senen-menhub-tekankan-keselamatan-jadi-prioritas-saat-arus-mudik"
+  },
+  {
+    "Judul": "PKB Sebut Revisi UU MD3 Bergantung Dinamika Politik",
+    "Kategori": "News",
+    "Publish": "07 April 2024, 10:05",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://news.republika.co.id/berita/sbjxe8436/pkb-sebut-revisi-uu-md3-bergantung-dinamika-politik"
+  },
+  {
+    "Judul": "Akses Jalan Lintas Padang-Muaralabuh Sudah Bisa Dilalui Pengendara",
+    "Kategori": "News",
+    "Publish": "07 April 2024, 10:03",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://news.republika.co.id/berita/sbjxtq502/akses-jalan-lintas-padangmuaralabuh-sudah-bisa-dilalui-pengendara"
+  },
+  {
+    "Judul": "Kalah dengan Produksi Luar Negeri, Manufaktur Indonesia Butuh Insentif Serius",
+    "Kategori": "Ekonomi",
+    "Publish": "07 April 2024, 09:59",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ekonomi.republika.co.id/berita/sbjxmq502/kalah-dengan-produksi-luar-negeri-manufaktur-indonesia-butuh-insentif-serius"
+  },
+  {
+    "Judul": "Jamaah Aolia Sudah Idul Fitri, Haedar Nashir: Kita Toleran Saja",
+    "Kategori": "Rejogja",
+    "Publish": "07 April 2024, 09:58",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://rejogja.republika.co.id/berita/sbjxm2432/jamaah-aolia-sudah-idul-fitri-haedar-nashir-kita-toleran-saja"
+  },
+  {
+    "Judul": "Sensasi Mudik Gratis Naik Kapal Perang ",
+    "Kategori": "Video",
+    "Publish": "07 April 2024, 09:56",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://tv.republika.co.id/berita/sbjxhr467/sensasi-mudik-gratis-naik-kapal-perang"
+  },
+  {
+    "Judul": "'Like Crazy' Jimin BTS Capai 1 Miliar Streaming di Spotify",
+    "Kategori": "Ameera",
+    "Publish": "07 April 2024, 09:53",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ameera.republika.co.id/berita/sbjxcr414/like-crazy-jimin-bts-capai-1-miliar-streaming-di-spotify"
+  },
+  {
+    "Judul": "Pedagang Kopi Keliling Raup Untung Selama Arus Mudik",
+    "Kategori": "Rejabar",
+    "Publish": "07 April 2024, 09:50",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://rejabar.republika.co.id/berita/sbjx7q436/pedagang-kopi-keliling-raup-untung-selama-arus-mudik"
+  },
+  {
+    "Judul": "Mau Mudik Pakai Mobil Listriik, Berikut Lokasi SPKLU di Tol Trans Jawa",
+    "Kategori": "Network",
+    "Publish": "07 April 2024, 09:49",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://motoresto.id/posts/300180/mau-mudik-pakai-mobil-listriik-berikut-lokasi-spklu-di-tol-trans-jawa"
+  },
+  {
+    "Judul": "Perundingan Gencatan Senjata Gaza akan Dilanjutkan di Kairo Hari Ini",
+    "Kategori": "Internasional",
+    "Publish": "07 April 2024, 09:47",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://internasional.republika.co.id/berita/sbjx2i502/perundingan-gencatan-senjata-gaza-akan-dilanjutkan-di-kairo-hari-ini"
+  },
+  {
+    "Judul": "Tiga Truk Bantuan Tiba di Rumah Sakit di Jalur Gaza Utara",
+    "Kategori": "Internasional",
+    "Publish": "07 April 2024, 09:46",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://internasional.republika.co.id/berita/sbjx0x414/tiga-truk-bantuan-tiba-di-rumah-sakit-di-jalur-gaza-utara"
+  },
+  {
+    "Judul": "Pengelola Tambah Mesin Tap Out Gerbang Tol Merak",
+    "Kategori": "News",
+    "Publish": "07 April 2024, 09:43",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://news.republika.co.id/berita/sbjww0436/pengelola-tambah-mesin-tap-out-gerbang-tol-merak"
+  },
+  {
+    "Judul": "Konsisten Jalankan TJSL, Bank Mandiri Komitmen Tingkatkan Kontribusi ke Target UN-SDGs",
+    "Kategori": "Esgnow",
+    "Publish": "07 April 2024, 09:39",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://esgnow.republika.co.id/berita/sbjwq6423/konsisten-jalankan-tjsl-bank-mandiri-komitmen-tingkatkan-kontribusi-ke-target-unsdgs"
+  },
+  {
+    "Judul": "G-Dragon Rayakan Dua Tahun Perilisan Single 'Still Life' Big Bang",
+    "Kategori": "Ameera",
+    "Publish": "07 April 2024, 09:37",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ameera.republika.co.id/berita/sbjwlw414/gdragon-rayakan-dua-tahun-perilisan-single-still-life-big-bang"
+  },
+  {
+    "Judul": "Monumen Reog, Wujud Eksistensi Budaya Asli Bumi Ponorogo",
+    "Kategori": "Retizen",
+    "Publish": "07 April 2024, 09:33",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://retizen.republika.co.id/posts/300178/monumen-reog-wujud-eksistensi-budaya-asli-bumi-ponorogo"
+  },
+  {
+    "Judul": "Tur Dunia BTS 2025 Dikabarkan Bakal Digelar Besar-besaran",
+    "Kategori": "Ameera",
+    "Publish": "07 April 2024, 09:20",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ameera.republika.co.id/berita/sbjvuy414/tur-dunia-bts-2025-dikabarkan-bakal-digelar-besarbesaran"
+  },
+  {
+    "Judul": "Heru Mengaku Telah Temui Eks Warga Kampung Bayam di Rusun Nagrak",
+    "Kategori": "News",
+    "Publish": "07 April 2024, 09:14",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://news.republika.co.id/berita/sbjvk3436/heru-mengaku-telah-temui-eks-warga-kampung-bayam-di-rusun-nagrak"
+  },
+  {
+    "Judul": "Tips Mudik Lewat Pelabuhan Merak-Bakauheni",
+    "Kategori": "Ekonomi",
+    "Publish": "07 April 2024, 09:07",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ekonomi.republika.co.id/berita/sbjv92502/tips-mudik-lewat-pelabuhan-merakbakauheni"
+  },
+  {
+    "Judul": "Universitas BSI Pemuda Gelar Kegiatan Berbagi Sesama Insan di Panti Asuhan Rumah Harapan",
+    "Kategori": "News",
+    "Publish": "07 April 2024, 09:06",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://news.republika.co.id/berita/sbjv6h423/universitas-bsi-pemuda-gelar-kegiatan-berbagi-sesama-insan-di-panti-asuhan-rumah-harapan"
+  },
+  {
+    "Judul": "Bintang Sirius Hingga Planet Venus Mungkin akan Terlihat saat Gerhana Matahari Total 8 April",
+    "Kategori": "Network",
+    "Publish": "07 April 2024, 09:05",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://antariksa.republika.co.id/sains/1714524893/bintang-sirius-hingga-planet-venus-mungkin-akan-terlihat-saat-gerhana-matahari-total-8-april"
+  },
+  {
+    "Judul": "Sarah Jessica Parker Sengaja Izinkan Putri Kembarnya Santap Makanan Manis, Kenapa?",
+    "Kategori": "Ameera",
+    "Publish": "07 April 2024, 09:01",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ameera.republika.co.id/berita/sbjtmx414/sarah-jessica-parker-sengaja-izinkan-putri-kembarnya-santap-makanan-manis-kenapa"
+  },
+  {
+    "Judul": "Maybank Syariah dan BMH Bahu Membahu Ceriakan 50 Anak Yatim dan Disabilitas di Balikpapan",
+    "Kategori": "Khazanah",
+    "Publish": "07 April 2024, 09:00",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://khazanah.republika.co.id/berita/sbjux3423/maybank-syariah-dan-bmh-bahu-membahu-ceriakan-50-anak-yatim-dan-disabilitas-di-balikpapan"
+  },
+  {
+    "Judul": "Tiap Hari, 5.000-an Orang Antre untuk Ikut Bukber Gratis di Sudut Kota Dubai Lama",
+    "Kategori": "Ameera",
+    "Publish": "07 April 2024, 09:00",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ameera.republika.co.id/berita/sbjuwg414/tiap-hari-5000an-orang-antre-untuk-ikut-bukber-gratis-di-sudut-kota-dubai-lama"
+  },
+  {
+    "Judul": "Pabrik Kerupuk di Pemukiman Penduduk Ludes Terbakar di Bandung",
+    "Kategori": "News",
+    "Publish": "07 April 2024, 08:56",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://news.republika.co.id/berita/sbjs3h436/pabrik-kerupuk-di-pemukiman-penduduk-ludes-terbakar-di-bandung"
+  },
+  {
+    "Judul": "Berbagi Sesama Insan, Universitas BSI Purwokerto Kolaborasi dengan\u00a0Laznas Yatim Mandiri",
+    "Kategori": "News",
+    "Publish": "07 April 2024, 08:54",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://news.republika.co.id/berita/sbjun8423/berbagi-sesama-insan-universitas-bsi-purwokerto-kolaborasi-denganlaznas-yatim-mandiri"
+  },
+  {
+    "Judul": "Rumah Wakaf Berbagi Sembako dan Paket Buka Puasa untuk Mualaf di Empat Negara",
+    "Kategori": "Khazanah",
+    "Publish": "07 April 2024, 08:46",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://khazanah.republika.co.id/berita/sbjuab423/rumah-wakaf-berbagi-sembako-dan-paket-buka-puasa-untuk-mualaf-di-empat-negara"
+  },
+  {
+    "Judul": "Pembukaan Rute Baru Maskapai Tingkatkan Ekonomi-Pariwisata Sulut",
+    "Kategori": "Ekonomi",
+    "Publish": "07 April 2024, 08:46",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ekonomi.republika.co.id/berita/sbju9c502/pembukaan-rute-baru-maskapai-tingkatkan-ekonomipariwisata-sulut"
+  },
+  {
+    "Judul": "H-5 Lebaran, Pergerakan Penumpang Angkutan Umum Mulai Terjadi Kenaikan",
+    "Kategori": "Network",
+    "Publish": "07 April 2024, 08:41",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ruzkaindonesia.id/posts/300142/h-5-lebaran-pergerakan-penumpang-angkutan-umum-mulai-terjadi-kenaikan"
+  },
+  {
+    "Judul": "Bersiap Ingat Dosa-Dosa dan Merenung Kala Menyaksikan Siksa Kubur di Hari Lebaran",
+    "Kategori": "Network",
+    "Publish": "07 April 2024, 08:41",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://filmusiku.com/posts/300157/bersiap-ingat-dosa-dosa-dan-merenung-kala-menyaksikan-siksa-kubur-di-hari-lebaran"
+  },
+  {
+    "Judul": "Prakiraan Cuaca Jabar Hari Ini 7 April 2024, Hujan di Bandung, Garut, Tasikmalaya",
+    "Kategori": "Network",
+    "Publish": "07 April 2024, 08:41",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://bandung24jam.id/posts/300174/prakiraan-cuaca-jabar-hari-ini-7-april-2024-hujan-di-bandung-garut-tasikmalaya"
+  },
+  {
+    "Judul": "Berbagi Sesama Insan, Universitas BSI Slipi Gandeng Yayasan Yatim Piatu Aisyiyah",
+    "Kategori": "News",
+    "Publish": "07 April 2024, 08:41",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://news.republika.co.id/berita/sbju0j423/berbagi-sesama-insan-universitas-bsi-slipi-gandeng-yayasan-yatim-piatu-aisyiyah"
+  },
+  {
+    "Judul": "Jelang Idul Fitri 1445 Hijriyah, TelkomGroup Siapkan Infrastruktur dan Layanan Prima ",
+    "Kategori": "News",
+    "Publish": "07 April 2024, 08:36",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://news.republika.co.id/berita/sbjtti423/jelang-idul-fitri-1445-hijriyah-telkomgroup-siapkan-infrastruktur-dan-layanan-prima"
+  },
+  {
+    "Judul": "Miris, Adegan tak Senonoh Tertangkap Kamera Saat Siaran Langsung Pertandingan Olahraga",
+    "Kategori": "Network",
+    "Publish": "07 April 2024, 08:35",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://impresi.republika.co.id/didaktika/1694524988/miris-adegan-tak-senonoh-tertangkap-kamera-saat-siaran-langsung-pertandingan-olahraga"
+  },
+  {
+    "Judul": "Longsor Bocimi Makin Parah, DPR Minta Perbaikan Segera",
+    "Kategori": "Ekonomi",
+    "Publish": "07 April 2024, 08:31",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ekonomi.republika.co.id/berita/sbjtk8502/longsor-bocimi-makin-parah-dpr-minta-perbaikan-segera"
+  },
+  {
+    "Judul": "Sudah Menang Pileg DPR, Istri Ridwan Kamil Tetap Berpeluang Maju Pilwalkot Bandung",
+    "Kategori": "Pemilu Kita",
+    "Publish": "07 April 2024, 08:30",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://pemilukita.republika.co.id/berita/sbjriv436/sudah-menang-pileg-dpr-istri-ridwan-kamil-tetap-berpeluang-maju-pilwalkot-bandung"
+  },
+  {
+    "Judul": "Cegah Tertular Penyakit, Jangan Biarkan Balita Dipeluk-Dicium Saat Silaturahim Lebaran",
+    "Kategori": "Ameera",
+    "Publish": "07 April 2024, 08:28",
+    "Scraping": "07 Apr 2024 11:51:37",
+    "Link": "https://ameera.republika.co.id/berita/sbh7bt414/cegah-tertular-penyakit-jangan-biarkan-balita-dipelukdicium-saat-silaturahim-lebaran"
   }
 ]
