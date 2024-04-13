@@ -1,5 +1,7 @@
+// File: query.js
 $.get("data.json", function (data) {
 
+  // Membuat array dari 'data'
   let items = data.map((item, idx) => {
     return {
       ...item,
@@ -8,9 +10,12 @@ $.get("data.json", function (data) {
     };
   });
 
+  // Syntax yang hanya akan apabila DOM siap untuk di eksekusi
   $(document).ready(function () {
+    // Display ke headline HTML dengan id scrap
     $('#scrap').DataTable({
       data: items,
+      // Isi dari tabel
       columns: [
         { data: 'id' },
         { data: 'Judul' },
@@ -19,6 +24,7 @@ $.get("data.json", function (data) {
         { data: 'Scraping' },
         { data: 'Link', visible: false }
       ],
+      // Agar tabel mobile friendly
       responsive: true
     });
   });
