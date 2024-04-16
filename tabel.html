@@ -16,7 +16,7 @@
   <script src="js/query.js"></script>
 </head>
 
-<body>
+<body style="min-height: 100vh; position: relative">
 
   <header>
 
@@ -46,8 +46,8 @@
   </header>
   <div style="display: flex;
   width: 100%;
-  margin: 50px auto 10px">
-    <article style="text-align: center; margin:auto">
+  margin: 0 auto 10px; padding-top: 50px; min-height: 80vh; box-sizing: border-box">
+    <article style="text-align: center; margin: 40px auto 40px auto">
       <h2 style="margin:10px">Berita Terkini</h2>
       <main>
         <table id="scrap">
@@ -64,7 +64,7 @@
       </main>
     </article>
   </div>
-  <div class="footer-container">
+  <div class="footer-container" style="position: relative; bottom: 0;">
     <footer class="box">
       © 2024 Thafa Fadillah Ramdani
     </footer>
